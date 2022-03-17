@@ -4,3 +4,17 @@ div{
     background-color:yellow;
 
 }
+img{
+    max-width:400px;
+    height:auto;
+}
+p{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 7px 40px;
+    border-radius:5px;
+    font-size:18px;
+}
